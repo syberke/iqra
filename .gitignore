@@ -37,4 +37,3 @@ yarn-error.*
 *.tsbuildinfo
 /android
 /ios
-.env
